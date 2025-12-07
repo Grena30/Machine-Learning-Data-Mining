@@ -1,0 +1,20 @@
+# General DS tools
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+
+# Jupyter
+jupyter
+notebook
+ipykernel
+
+# Dev Tools
+joblib
+nbqa
+black
+pytest
+mypy
+ipykernel
+prettytable
