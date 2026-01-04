@@ -5,6 +5,7 @@ matplotlib
 seaborn
 scikit-learn
 scipy
+scikit-fuzzy
 
 # Jupyter
 jupyter
